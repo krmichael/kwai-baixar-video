@@ -1,4 +1,4 @@
-# 🚀 Como Baixar Videos KW Sem Marca d’Água no Android
+# 🚀 Como Baixar Videos Kwai Sem Marca d’Água no Android
 
 [![Play Store](https://img.shields.io/badge/Download-Play%20Store-green?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.kwai.video.downloaderpro.nowatermark)
 
