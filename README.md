@@ -2,6 +2,8 @@
 
 [![Play Store](https://img.shields.io/badge/Download-Play%20Store-green?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.kwai.video.downloaderpro.nowatermark)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=krmichael.kwai-baixar-video)
+
 O **Kwai**, na China chamado de **Kuaishou** e em países como Índia, Paquistão e Indonésia, chamado de **Snack Video** é uma das redes sociais que mais crescem no mundo, conquistando milhões de usuários com vídeos curtos, criativos e virais todos os dias.
 
 Encontrou um vídeo incrível e quer salvar no seu celular **sem marca d’água**?
